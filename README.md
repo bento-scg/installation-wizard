@@ -1,5 +1,11 @@
 ## Installation
 
+Go to project directory 
+
+```sh
+cd ~/installation-wizard
+```
+
 Install the packages
 
 ```sh
@@ -13,6 +19,12 @@ npm run start
 ```
 
 ## Docker
+
+Go to project directory 
+
+```sh
+cd ~/installation-wizard
+```
 
 Build the image
 
